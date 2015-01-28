@@ -1,0 +1,24 @@
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title: 						Phil Toms
+email: 						phil.toms@hotmail.co.uk
+url:              http://philtoms.github.io
+paginate:         1
+baseurl:          /
+author:
+  name:           Phil Toms
+  url:            https://github.com/philtoms
+  email:          philtoms@hotmail.co.uk
+
+# Custom vars
+version:          1.0.0
+github:
+  repo:           https://github.com/philtoms/philtoms.github.io
+
+pages_list:       
+#  About: '/about'
+  Archive: '/archive'
+  Feed: '/atom.xml'
